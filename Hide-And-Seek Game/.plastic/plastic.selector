@@ -1,0 +1,4 @@
+repository "Hide-And-Seek Game/Hide-And-Seek Game@18968300063769@cloud"
+  path "/"
+    br "/main"
+    co "/main"
